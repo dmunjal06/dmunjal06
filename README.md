@@ -1,21 +1,16 @@
+<!-- ================= PROFILE HEADER ================= -->
 <div align="center">
 
 ![Profile Banner](github-header-banner.png)
 
-<!-- ================= PROFILE HEADER ================= -->
-<h1 align="center" style="color:#6C63FF;">
-  Hi 👋, I'm <span style="color:#FF6584;">Diya Munjal</span>
-</h1>
-
-<h3 align="center" style="color:#4CAF50;">
-  🚀 Full Stack Web Developer | Robotics & AI Student | Problem Solver
-</h3>
-
+# 👋 Welcome to My GitHub
 <p align="center">
-  <em style="color:#777;">
-    Turning ideas into scalable, efficient, and user-centric digital solutions.
-  </em>
+  <a href="https://github.com/dmunjal06" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Machine+Learning+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
+</div>
+
 
 <hr/>
 
@@ -204,7 +199,7 @@
 <h2>🛠️ Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,react,nodejs,mongodb,mysql,git,linux,figma,flask,django,tensorflow,arduino&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,mongodb,mysql,git,figma,django,tensorflow,arduino,vscode&perline=8" />
 </p>
 
 <hr/>
