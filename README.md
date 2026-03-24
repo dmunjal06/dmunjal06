@@ -21,7 +21,7 @@
   Chandigarh Group of Colleges, Jhanjeri 
 
 - 🔭 **Currently Working On:**  
-  🤖 **AI-Based 8-Puzzle Game Solver** *(A*, Dijkstra, Bellman-Ford)*
+  🎤 **Awaaz Setu – Offline Speech-to-Text System using Whisper AI** *(React, Node.js, Python)*
 
 - 🌱 **Currently Learning:**  
   🧩 Full Stack Web Development + DSA (Python)
@@ -35,24 +35,23 @@
 <hr/>
 
 <!-- ================= QUICK HIGHLIGHTS ================= -->
+
 <h2>📌 Quick Highlights</h2>
-
 <ul>
-  <li>🧠 Strong foundation in Data Structures, Algorithms & Core CS</li>
-  <li>💻 Hands-on experience with Full Stack & Algorithm-based projects</li>
-  <li>🤖 Practical exposure to AI, ML, Robotics & Embedded Systems</li>
-  <li>📊 Active problem solver with 100+ coding challenges solved</li>
-  <li>🤝 Strong teamwork, communication & leadership experience</li>
+  <li>🧠 Strong foundation in Data Structures, Algorithms & Core Computer Science concepts</li>
+  <li>💻 Hands-on experience building Full Stack and AI-based real-world projects</li>
+  <li>🤖 Developed an offline Speech-to-Text system using Whisper AI (Awaaz Setu)</li>
+  <li>📊 Solved 100+ coding problems across platforms with focus on problem-solving & optimization</li>
+  <li>⚙️ Experience in integrating frontend, backend & AI models into complete working systems</li>
+  <li>🤝 Strong teamwork, communication & leadership skills with project collaboration experience</li>
 </ul>
-
 <hr/>
 
 <!-- ================= TECH EXPERTISE ================= -->
 <h2>🧠 Technical Expertise</h2>
-
 <ul>
   <li><b>🌐 Frontend Development</b><br/>
-      HTML5 • CSS3 • Responsive Web Design • JavaScript (ES6+) • React.js • Tailwind CSS
+      HTML5 • CSS3 • Responsive Web Design • JavaScript (ES6+) • React.js • Tailwind CSS • WaveSurfer.js
   </li><br/>
 
   <li><b>🧠 Data Structures & Algorithms</b><br/>
@@ -64,11 +63,13 @@
 
   <li><b>🤖 AI / ML & Data</b><br/>
       Machine Learning Basics • ANN Models • Prompt Engineering<br/>
+      OpenAI Whisper • Speech Recognition • Audio Processing<br/>
       Data Cleaning • Model Evaluation • Python for Data Analysis
   </li><br/>
 
   <li><b>🗄️ Backend & Databases</b><br/>
-      Node.js • Flask • Django • MySQL • MongoDB<br/>
+      Node.js • Express.js • Flask • Django • REST APIs<br/>
+      MySQL • MongoDB • File Handling • API Integration<br/>
       Authentication & Authorization • Database Design
   </li><br/>
 
@@ -79,6 +80,10 @@
 
   <li><b>🧪 Programming & Embedded</b><br/>
       Python • Java • JavaScript • C • C++ • Embedded C • Arduino
+  </li><br/>
+
+  <li><b>🛠️ Tools & Technologies</b><br/>
+      Git • GitHub • VS Code • Postman • Axios • FFMPEG
   </li>
 </ul>
 
@@ -110,6 +115,13 @@
 
 <ul>
   <li>
+    <b>🎤 Awaaz Setu – Offline Speech-to-Text System</b><br/>
+    Developed a web-based offline speech-to-text application using Whisper AI,
+    supporting real-time microphone input and audio file transcription with a React frontend and Node.js backend.<br/>
+    <i>Tech Stack:</i> React.js, Node.js, Express.js, Python, OpenAI Whisper
+  </li><br/>
+  
+  <li>
     <b>🤖 AI-Based 8-Puzzle Game Solver</b><br/>
     Intelligent solver using heuristic search algorithms like A*, Dijkstra & Bellman-Ford.<br/>
     <i>Status:</i> Coming Soon
@@ -125,11 +137,6 @@
     <b>🍷 Wine Quality Prediction (Machine Learning)</b><br/>
     Built ANN-based model using UCI dataset, evaluated using accuracy,
     precision, recall & F1-score.
-  </li><br/>
-
-  <li>
-    <b>🧠 Memory Allocation Simulator (Web App)</b><br/>
-    Full-stack visualization of First-Fit, Best-Fit & Worst-Fit memory allocation algorithms.
   </li><br/>
 
   <li>
